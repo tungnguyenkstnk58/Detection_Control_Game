@@ -1,4 +1,4 @@
-# resilience-induced-blindness
+# Detection--Control Game
 
 Python simulation code for the paper:
 
